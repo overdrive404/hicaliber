@@ -1,2 +1,4 @@
 *
 !.gitignore
+!csv_data/
+!csv_data/property-data.csv
